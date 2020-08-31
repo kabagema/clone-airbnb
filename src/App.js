@@ -10,7 +10,9 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
 
-    //BEM conventionnpm 
+    //BEM convention
+    // npm
+    // animations
     <div className="app">
       <Router>
         <Header />
